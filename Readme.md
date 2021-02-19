@@ -8,7 +8,7 @@ possibles.
 ### Pré-requis
 
 ### Installation
-`git clone `
+`git clone https://github.com/MaximePie/thegoodsandbox.git`
 
 `composer install`
 
